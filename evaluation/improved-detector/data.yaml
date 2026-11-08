@@ -1,0 +1,8 @@
+# Paths rewritten by this notebook so that they resolve from anywhere.
+path: /content/drive/MyDrive/c389 ca1 final (improved model)/runs/L3/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['person_left', 'person_right']

@@ -1,0 +1,5 @@
+track_id,seconds,confirmed_seconds,direction,screen_direction
+63,10.906157,11.166666666666666,positive_to_negative,right
+73,12.0477,12.266666666666667,positive_to_negative,right
+140,29.764902,30.0,negative_to_positive,left
+169,28.034203,28.266666666666666,negative_to_positive,left

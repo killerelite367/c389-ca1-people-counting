@@ -1,0 +1,11 @@
+{
+  "min_wait_seconds": 1.0,
+  "motion_window_seconds": 0.75,
+  "smoothing_seconds": 0.2,
+  "still_body_heights_per_second": 0.06,
+  "max_observation_gap_seconds": 0.25,
+  "min_track_seconds": 0.5,
+  "min_track_observations": 5,
+  "line_margin_body_heights": 0.03,
+  "line_confirm_seconds": 0.15
+}

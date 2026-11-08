@@ -1,0 +1,36 @@
+{
+  "site_id": "e6a12a9663bd48f59a3bf694296f79fc",
+  "frame_width": 848,
+  "frame_height": 464,
+  "waiting_area": [
+    [
+      276,
+      285
+    ],
+    [
+      122,
+      274
+    ],
+    [
+      19,
+      310
+    ],
+    [
+      57,
+      337
+    ]
+  ],
+  "crossing_line": [
+    [
+      458,
+      274
+    ],
+    [
+      379,
+      363
+    ]
+  ],
+  "crossing_direction": "both",
+  "recorded_on": null,
+  "camera_position": "Selected by the user on the uploaded video"
+}

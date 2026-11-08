@@ -1,0 +1,15 @@
+{
+  "raw_track_ids": 71,
+  "eligible_track_ids": 27,
+  "excluded_short_track_ids": 44,
+  "waited_track_ids": 2,
+  "crossed_track_ids": 4,
+  "exclusive_outcomes": {
+    "waited_then_crossed": 0,
+    "waited_without_later_crossing": 2,
+    "crossed_without_observed_wait": 4,
+    "unresolved": 21
+  },
+  "count_unit": "eligible tracker identity; fragmentation can overcount real people",
+  "note": "Waited and crossed overlap. Exclusive outcomes sum to eligible identities."
+}

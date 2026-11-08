@@ -1,0 +1,23 @@
+# Python, notebooks and local environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+secrets.*
+credentials.*
+
+# Local videos, dataset exports and generated outputs
+*.[mM][oO][vV]
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.pt
+!models/improved/best.pt
+!models/original/best.pt
+/data/
+/runs/
+/outputs/
+/artifacts/

@@ -1,0 +1,29 @@
+{
+ "classes": [
+  "person_left",
+  "person_right"
+ ],
+ "per_class": {
+  "person_left": {
+   "precision": 0.8504268162940519,
+   "recall": 0.9347826086956522,
+   "ap50": 0.9491933777095068,
+   "ap50_95": 0.6012331141532397
+  },
+  "person_right": {
+   "precision": 0.8776246330402078,
+   "recall": 0.8439089153710246,
+   "ap50": 0.925565267119426,
+   "ap50_95": 0.6138633277765722
+  }
+ },
+ "confidence_threshold": 0.4,
+ "config": {
+  "model_variant": "yolo26n.pt",
+  "epochs": 100,
+  "image_size": 640,
+  "batch_size": 16,
+  "fliplr": 0.0
+ },
+ "used_sample_data": false
+}
